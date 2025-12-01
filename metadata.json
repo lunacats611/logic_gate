@@ -1,0 +1,5 @@
+{
+  "name": "LogicFlow AI Simulator",
+  "description": "A visual logic gate simulator with bidirectional conversion between circuits, truth tables, and boolean expressions, powered by Gemini AI for layout generation.",
+  "requestFramePermissions": []
+}
